@@ -1,0 +1,65 @@
+C:\Users\cmdbe\Desktop\PROGRAMS\C#CALCULATOR\bin\Debug\netcoreapp3.1\C#CALCULATOR.exe
+C:\Users\cmdbe\Desktop\PROGRAMS\C#CALCULATOR\bin\Debug\netcoreapp3.1\C#CALCULATOR.deps.json
+C:\Users\cmdbe\Desktop\PROGRAMS\C#CALCULATOR\bin\Debug\netcoreapp3.1\C#CALCULATOR.runtimeconfig.json
+C:\Users\cmdbe\Desktop\PROGRAMS\C#CALCULATOR\bin\Debug\netcoreapp3.1\C#CALCULATOR.runtimeconfig.dev.json
+C:\Users\cmdbe\Desktop\PROGRAMS\C#CALCULATOR\bin\Debug\netcoreapp3.1\C#CALCULATOR.dll
+C:\Users\cmdbe\Desktop\PROGRAMS\C#CALCULATOR\bin\Debug\netcoreapp3.1\C#CALCULATOR.pdb
+C:\Users\cmdbe\Desktop\PROGRAMS\C#CALCULATOR\obj\Debug\netcoreapp3.1\C#CALCULATOR.csprojAssemblyReference.cache
+C:\Users\cmdbe\Desktop\PROGRAMS\C#CALCULATOR\obj\Debug\netcoreapp3.1\C#CALCULATOR.AssemblyInfoInputs.cache
+C:\Users\cmdbe\Desktop\PROGRAMS\C#CALCULATOR\obj\Debug\netcoreapp3.1\C#CALCULATOR.AssemblyInfo.cs
+C:\Users\cmdbe\Desktop\PROGRAMS\C#CALCULATOR\obj\Debug\netcoreapp3.1\C#CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\cmdbe\Desktop\PROGRAMS\C#CALCULATOR\obj\Debug\netcoreapp3.1\C#CALCULATOR.dll
+C:\Users\cmdbe\Desktop\PROGRAMS\C#CALCULATOR\obj\Debug\netcoreapp3.1\C#CALCULATOR.pdb
+C:\Users\cmdbe\Desktop\PROGRAMS\C#CALCULATOR\obj\Debug\netcoreapp3.1\C#CALCULATOR.genruntimeconfig.cache
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.exe
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.deps.json
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.runtimeconfig.json
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.runtimeconfig.dev.json
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.dll
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.pdb
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.csprojAssemblyReference.cache
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.AssemblyInfoInputs.cache
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.AssemblyInfo.cs
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.dll
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.pdb
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.genruntimeconfig.cache
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.exe
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.deps.json
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.runtimeconfig.json
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.runtimeconfig.dev.json
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.dll
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.pdb
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.csprojAssemblyReference.cache
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.AssemblyInfoInputs.cache
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.AssemblyInfo.cs
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.dll
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.pdb
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.genruntimeconfig.cache
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#11\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.exe
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#11\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.deps.json
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#11\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.runtimeconfig.json
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#11\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.runtimeconfig.dev.json
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#11\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.dll
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#11\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.pdb
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#11\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.csprojAssemblyReference.cache
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#11\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.AssemblyInfoInputs.cache
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#11\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.AssemblyInfo.cs
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#11\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#11\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.dll
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#11\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.pdb
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#11\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.genruntimeconfig.cache
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#1\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.exe
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#1\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.deps.json
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#1\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.runtimeconfig.json
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#1\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.runtimeconfig.dev.json
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#1\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.dll
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#1\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\bin\Debug\netcoreapp3.1\C#CALCULATOR.pdb
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#1\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.csprojAssemblyReference.cache
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#1\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.AssemblyInfoInputs.cache
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#1\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.AssemblyInfo.cs
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#1\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#1\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.dll
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#1\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.pdb
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\PT#1\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_2_Quarter_1\obj\Debug\netcoreapp3.1\C#CALCULATOR.genruntimeconfig.cache
